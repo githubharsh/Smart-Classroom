@@ -1,1 +1,1 @@
-It is a device which can be used to cut-off the loads of any class or room based on class hours,temperature,light intensity  which remain on due to carelessness of students or staff, to save electricity.
+It is a device which can be used to cut-off the loads of any class or room, based on class hours,temperature,light intensity or if there is no one in class,  which remain on due to carelessness of students or staff.
